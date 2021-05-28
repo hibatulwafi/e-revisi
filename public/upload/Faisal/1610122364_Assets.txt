@@ -1,0 +1,41 @@
+https://elib.unikom.ac.id/files/disk1/691/jbptunikompp-gdl-redipurwad-34504-12-unikom_r-l.pdf
+
+// Alternatif Google Maps - Mapbox Navigasi
+https://www.mapbox.com/navigation/
+https://docs.mapbox.com/help/how-mapbox-works/directions/
+https://docs.mapbox.com/help/tutorials/android-navigation-sdk/
+// API Key Mapbox
+pk.eyJ1Ijoid2FwaXB1dHJhIiwiYSI6ImNrYzM0em9zaTAwczIzM3BjemlnbXoyd3QifQ.5JkBFnavsM5KAGZvMxNDyg
+sk.eyJ1Ijoid2FwaXB1dHJhIiwiYSI6ImNrYzM1cmJiZTIzbjgycm5hdGJmYXhnMDIifQ.kcGLrSISyQVuZsG2K_k1nw
+
+// Upload Image
+https://medium.com/@erthru/upload-gambar-menggunakan-retrofit-2-76fc74a232a9
+http://www.androidcoding.in/2018/02/17/android-upload-image-using-retrofit-library/
+http://www.androidcoding.in/2018/02/17/android-upload-image-using-retrofit-library-part2/
+http://wimsonevel.blogspot.com/2016/11/tutorial-android-upload-image-using.html
+// Ambil gambar dari galeri atau kamera
+http://www.codeplayon.com/2018/11/android-image-upload-to-server-from-camera-and-gallery/
+ 
+// Validasi Input untuk Form
+https://techatmosphere.com/membuat-validasi-input-dengan-mudah-dan-sederhana-menggunakan-library-android-saripaar/
+
+// Free UI For Front End Android
+https://appsnipp.com/
+
+// Android Permission
+https://developer.android.com/reference/android/Manifest.permission
+
+// biar Gabisa screen shoot di app android
+https://medium.com/nomtek/screenshot-preventing-on-mobile-apps-9e62f51643e9
+
+//Payment Gateway
+Nanti aja ini ma pusing, manual dulu aja
+
+// Contoh Aplikasi Aritmetika
+https://github.com/liondy/Android-Calculator
+https://github.com/fajaregafirmansyah/Bayar-Gaji
+
+// Bind Objek to spinner
+https://stackoverflow.com/questions/1625249/android-how-to-bind-spinner-to-custom-object-list
+https://dzone.com/articles/populate-spinner-from-json-data
+https://farizdotid.com/cara-set-data-spinner-dari-json-api-server-retrofit-android/
